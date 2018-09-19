@@ -1,9 +1,9 @@
 # PackageHook
 Hook An Android Applications Package Config And Set It As You Want.
 
-Inside of [build.gradle](https://github.com/jbro129/PackageHook/) the versionCode, versionName, and applicationId are set.
+Inside of [build.gradle](https://github.com/jbro129/PackageHook/blob/master/PackageHook/app/build.gradle) the versionCode, versionName, and applicationId are set.
 
-You can change the versionCode, versionName, and applicationId (another name for packageName) to whatever you like as done inside of [here](https://github.com/jbro129/PackageHook/)
+You can change the versionCode, versionName, and applicationId (another name for packageName) to whatever you like as done inside of [here](https://github.com/jbro129/PackageHook/blob/master/PackageHook/app/src/main/java/com/jbro129/packagehook/MainApp.java)
 
 Why?
 -------
