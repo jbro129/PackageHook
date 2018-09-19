@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/packageName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Package Name: " />
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent" />
+
+        <TextView
+            android:id="@+id/versionCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Version Code: " />
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent" />
+
+        <TextView
+            android:id="@+id/versionName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Version Name: " />
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
