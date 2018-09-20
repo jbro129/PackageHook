@@ -8,3 +8,5 @@ You can change the versionCode, versionName, and applicationId (another name for
 Why?
 -------
 By changing the versionCode, versionName, and applicationId you can use Google Play In-App Purchases even when the info is not the same as declared in the Google Play Developer Console.
+
+[![Proof](https://raw.githubusercontent.com/jbro129/PackageHook/master/sample1.png)](https://github.com/jbro129/PackageHook)
